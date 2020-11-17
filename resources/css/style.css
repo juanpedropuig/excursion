@@ -14,3 +14,17 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.copyright {
+  text-align: right;
+}
